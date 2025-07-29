@@ -5,6 +5,9 @@ AquaVise is a compact and intelligent underwater Remotely Operated Vehicle (ROV)
 > 🏆 **Capstone Theme Award** at Universiti Teknologi Malaysia  
 > 🏆 **Gold Award** in International Virtual Competition of Creative & Innovative Idea (IVCCII 2025)
 ---
+![WhatsApp Image 2025-03-29 at 11 39 36 PM (1) (1)](https://github.com/user-attachments/assets/c5f30906-900e-454f-88ee-cfb0cc5afcda)
+![WhatsApp Image 2025-03-29 at 11 39 37 PM](https://github.com/user-attachments/assets/25cc38fa-0910-417d-a6c5-3fb00c2d68e7)
+
 
 ## 📽️ Demonstration
 
@@ -15,6 +18,8 @@ https://github.com/user-attachments/assets/d291c60b-21bb-4c5e-aba0-56c1710979f3
 <img width="809" height="654" alt="corrosion2_crop" src="https://github.com/user-attachments/assets/e504461e-245e-4bd7-a238-9ed83fb6b39e" />
 <img width="817" height="661" alt="corrosion1_crop" src="https://github.com/user-attachments/assets/bde0b57b-7522-478f-b653-d45948cfe81d" />
 
+- **Adjustable Camera:** 
+[ezgif-14e0a4dfad839b.webm](https://github.com/user-attachments/assets/6dd5c388-9fd7-4827-bece-901261d9a31d)
 
 ---
 
@@ -79,7 +84,7 @@ https://github.com/user-attachments/assets/d291c60b-21bb-4c5e-aba0-56c1710979f3
 
 ## ⚙️ System Architecture
 
-![Block Diagram](media/block_diagram.jpg)
+<img width="712" height="262" alt="image" src="https://github.com/user-attachments/assets/7a6fb173-3955-40f8-b272-6960f7693c36" />
 
 ---
 
@@ -90,16 +95,6 @@ https://github.com/user-attachments/assets/d291c60b-21bb-4c5e-aba0-56c1710979f3
 - Add leak detection sensors with moisture-triggered failsafe shutoff.
 - Refine body design for easier maintenance and internal access.
 - Upgrade to wireless control with robust data transmission.
-
----
-
-## 📊 Cost Summary
-
-| Item              | Total Cost (RM) |
-|-------------------|-----------------|
-| Electronics       | 262.49          |
-| Mechanical Parts  | 131.58          |
-| **Total**         | **394.07**      |
 
 ---
 
