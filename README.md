@@ -111,8 +111,8 @@ https://github.com/user-attachments/assets/d291c60b-21bb-4c5e-aba0-56c1710979f3
 
 ## 👨‍🔧 Authors
 
-- **Aina Nuha Binti Che Mahadzir**  
 - **Kan Chang Fei**  
+- **Aina Nuha Binti Che Mahadzir**  
 - **Nourhan Hatem Mohammed**  
 - **Supervisor:** Assoc. Prof. Ts. Dr. Anita Binti Ahmad  
 - Faculty of Electrical Engineering, Universiti Teknologi Malaysia
