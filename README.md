@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/d291c60b-21bb-4c5e-aba0-56c1710979f3
 <img width="817" height="661" alt="corrosion1_crop" src="https://github.com/user-attachments/assets/bde0b57b-7522-478f-b653-d45948cfe81d" />
 
 - **Adjustable Camera:**
-<video src="https://github.com/user-attachments/assets/6dd5c388-9fd7-4827-bece-901261d9a31d/ezgif-14e0a4dfad839b.webm" autoplay loop muted playsinline width="600"></video>
+[ezgif-14e0a4dfad839b.webm](https://github.com/user-attachments/assets/6dd5c388-9fd7-4827-bece-901261d9a31d)
 
 
 ---
