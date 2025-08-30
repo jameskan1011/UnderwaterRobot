@@ -2,9 +2,10 @@
 
 AquaVise is a compact and intelligent underwater Remotely Operated Vehicle (ROV) developed for corrosion inspection and monitoring tasks, specifically within nuclear reactor pools. It combines mechanical agility, advanced sensing, and intelligent software to detect corrosion visually and maintain stable maneuverability in challenging underwater environments.
 
-> 🏆 **Capstone Theme Award** at Universiti Teknologi Malaysia  
-> 🏆 **Gold Award** in International Virtual Competition of Creative & Innovative Idea (IVCCII 2025)
-> 🏆 **Gold Medal** in Virtual Innovation Competition 2025
+🏆 **Capstone Theme Award** at Universiti Teknologi Malaysia  
+🏆 **Gold Award** in International Virtual Competition of Creative & Innovative Idea (IVCCII 2025)  
+🏆 **Gold Medal** in Virtual Innovation Competition 2025  
+
 ---
 ![WhatsApp Image 2025-03-29 at 11 39 36 PM (1) (1)](https://github.com/user-attachments/assets/c5f30906-900e-454f-88ee-cfb0cc5afcda)
 ![WhatsApp Image 2025-03-29 at 11 39 37 PM](https://github.com/user-attachments/assets/25cc38fa-0910-417d-a6c5-3fb00c2d68e7)
